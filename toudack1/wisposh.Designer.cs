@@ -124,7 +124,7 @@
             // 
             this.qus_barcode_btn.BackgroundImage = global::toudack1.Properties.Resources.barcod;
             this.qus_barcode_btn.Enabled = false;
-            this.qus_barcode_btn.Location = new System.Drawing.Point(346, 121);
+            this.qus_barcode_btn.Location = new System.Drawing.Point(347, 121);
             this.qus_barcode_btn.Name = "qus_barcode_btn";
             this.qus_barcode_btn.Size = new System.Drawing.Size(32, 32);
             this.qus_barcode_btn.TabIndex = 7;
